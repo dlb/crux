@@ -1,4 +1,4 @@
 crux
 ====
 
-A unified system of nested syntaxes for Processing, Arduino, Wiring, Processing.js, etc inspired by Coffeescript and JSON
+A unified system of nested syntaxes for Processing, Arduino, Wiring, Processing.js, etc inspired by Coffeescript, Markdown, and JSON
